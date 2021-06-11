@@ -16,5 +16,9 @@
         <members>*</members>
         <name>LightningComponentBundle</name>
     </types>
+     <types>
+        <members>MyLearning</members>
+        <name>CustomApplication</name>
+    </types>   
     <version>51.0</version>
 </Package>
